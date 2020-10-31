@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+attr? thumbColor
+attr? thumbDrawable
+attr? thumbHeight
+attr? thumbWidth
+attr? useScrollBy
+styleable SmoothScroller thumbHeight thumbWidth thumbColor thumbDrawable useScrollBy

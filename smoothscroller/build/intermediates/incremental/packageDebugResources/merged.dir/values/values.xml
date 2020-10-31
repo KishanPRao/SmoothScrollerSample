@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmoothScroller">
+		<attr format="float|integer|dimension" name="thumbHeight"/>
+		<attr format="float|integer|dimension" name="thumbWidth"/>
+		<attr format="color" name="thumbColor"/>
+		<attr format="reference" name="thumbDrawable"/>
+		<attr format="boolean" name="useScrollBy"/>
+	</declare-styleable>
+</resources>
